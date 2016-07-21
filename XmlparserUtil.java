@@ -61,7 +61,7 @@ public class XmlparserUtil {
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
-			if (!(pw == null)) {
+			if (pw != null) {
 				pw.close();
 			}
 		}
