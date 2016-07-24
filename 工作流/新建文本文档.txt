@@ -1,0 +1,4 @@
+首页: http://www.activiti.org/
+书籍: activiti in action  
+入门demo： kft-activiti-demo   http://www.oschina.net/p/kft-activiti-demo/
+论坛:http://www.activiti-cn.org/
