@@ -1,0 +1,21 @@
+该项目用于反编译和分享 java 字节码的开发工具。它有四部分组成
+
+JD-Core
+JD-GUI
+JD-Eclipse
+JD-Intellij
+官方网站 
+http://jd.benow.ca/
+
+jd-core source code （非官方） 
+https://github.com/nviennot/jd-core-java
+
+jd-gui source code 
+https://github.com/java-decompiler/jd-gui
+
+jd-eclipse source code 
+https://github.com/java-decompiler/jd-eclipse
+
+jd-intellij source code 
+https://bitbucket.org/bric3/jd-intellij
+
